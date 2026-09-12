@@ -1,6 +1,6 @@
 namespace BankSystem.Domain.entities;
-
-public class UserEntity :Ide
+using Microsoft.AspNetCore.Identity;
+public class UserEntity : IdentityUser<Guid>
 {
     public CardEntity  Card { get; set; }
     public Guid CardId { get; set; }
