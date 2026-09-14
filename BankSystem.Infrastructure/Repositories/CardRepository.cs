@@ -49,4 +49,16 @@ public class CardRepository : ICardRepository
             throw new Exception("Card not found");
         _dbContext.Cards.Remove(card);
     }
+
+    public async Task UpdateCardAsync(Guid cardId, int amount)
+    {
+        var card = await _dbContext.Cards.FirstOrDefaultAsync(x => x.CardId == cardId);
+        
+        if (card == null)
+            throw new Exception("Card not found");
+        
+        await _dbContext.SaveChangesAsync();
+    }
+
+    
 }

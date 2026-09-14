@@ -8,4 +8,6 @@ public interface ICardRepository
     public Task<CardEntity> GetCardByIdAsync(Guid  cardId);
     public Task<Guid> CreateCardAsync(CardEntity card);
     public Task DeleteCardAsync(Guid cardId);
+    public Task UpdateCardAsync(Guid cardId, int amount);
+   
 }
