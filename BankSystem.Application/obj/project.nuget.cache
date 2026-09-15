@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kG3cgNhxZkw=",
+  "dgSpecHash": "mGNESvqVLVg=",
   "success": true,
   "projectFilePath": "C:\\Users\\mouze\\RiderProjects\\BankSystem\\BankSystem.Application\\BankSystem.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mouze\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",
+    "C:\\Users\\mouze\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\mouze\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.11\\microsoft.aspnetcore.authentication.2.3.11.nupkg.sha512",
     "C:\\Users\\mouze\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.9\\microsoft.aspnetcore.authentication.abstractions.2.3.9.nupkg.sha512",
     "C:\\Users\\mouze\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.3.12\\microsoft.aspnetcore.authentication.cookies.2.3.12.nupkg.sha512",
