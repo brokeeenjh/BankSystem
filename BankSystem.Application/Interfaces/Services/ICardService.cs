@@ -6,4 +6,5 @@ public interface ICardService
     public Task DeleteCardAsync(Guid cardId);
     public Task WithdrawAsync(Guid cardId, int amount);
     public Task DepositAsync(Guid cardId, int amount);
+    public Task<int> GetCardAmountAsync(Guid cardId);
 }

@@ -79,4 +79,11 @@ public class CardService : ICardService
 
         await _cardRepository.UpdateCardAsync(cardId, card.Amount);
     }
+
+    public async Task<int> GetCardAmountAsync(Guid cardId)
+    {
+        var amount = await _cardRepository.GetCardAmountAsync(cardId);
+
+        return amount;
+    }
 }

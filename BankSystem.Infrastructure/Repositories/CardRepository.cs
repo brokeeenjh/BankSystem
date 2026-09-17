@@ -60,5 +60,14 @@ public class CardRepository : ICardRepository
         await _dbContext.SaveChangesAsync();
     }
 
-    
+    public async Task<int> GetCardAmountAsync(Guid cardId)
+    {
+        var card = await _dbContext.Cards
+            .FirstOrDefaultAsync(x => x.CardId == cardId);
+
+        if (card == null)
+            throw new Exception("there is no card");
+
+        return card.Amount;
+    }
 }
