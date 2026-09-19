@@ -1,0 +1,13 @@
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\bin\Debug\net10.0\BankSystem.Domain.deps.json
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\bin\Debug\net10.0\BankSystem.Domain.dll
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\bin\Debug\net10.0\BankSystem.Domain.pdb
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.AssemblyInfo.cs
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.sourcelink.json
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.dll
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\refint\BankSystem.Domain.dll
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\BankSystem.Domain.pdb
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Domain\obj\Debug\net10.0\ref\BankSystem.Domain.dll
