@@ -1,0 +1,16 @@
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\bin\Debug\net10.0\BankSystem.Application.deps.json
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\bin\Debug\net10.0\BankSystem.Application.dll
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\bin\Debug\net10.0\BankSystem.Application.pdb
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\bin\Debug\net10.0\BankSystem.Domain.dll
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\bin\Debug\net10.0\BankSystem.Domain.pdb
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSystem.Application.csproj.AssemblyReference.cache
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSystem.Application.AssemblyInfoInputs.cache
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSystem.Application.AssemblyInfo.cs
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSystem.Application.sourcelink.json
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSyst.9DE707B0.Up2Date
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSystem.Application.dll
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\refint\BankSystem.Application.dll
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\BankSystem.Application.pdb
+C:\Users\mouze\RiderProjects\BankSystem\BankSystem.Application\obj\Debug\net10.0\ref\BankSystem.Application.dll
