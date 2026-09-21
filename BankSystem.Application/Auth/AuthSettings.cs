@@ -1,7 +1,0 @@
-namespace BankSystem.Application.Auth;
-
-public class AuthSettings
-{
-    public string SecretKey { get; set; }
-    public TimeSpan Expires { get; set; }
-}
